@@ -1,9 +1,15 @@
 <h3 style="text-align:center">Hi there, I'm Dany Kattouf &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <div style="text-align:center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dany-kattouf)
-[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dajkatal@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/danykattouf)
+<a href="https://linkedin.com/in/dany-kattouf" target="_self"> 
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+</a>
+<a href="mailto:dajkatal@gmail.com" target="_self"> 
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge" />
+</a>
+<a href="https://t.me/danykattouf" target="_self"> 
+  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge" />
+</a>
 </div>
 ***
 

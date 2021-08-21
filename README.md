@@ -6,7 +6,7 @@
 
 <h3 float="left">
 Glad to see you here! &nbsp;
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=dajkatal&color=0D0C0D&style=for-the-badge&logo=Github" />
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=dajkatal&color=0D0C0D&style=for-the-badge&logo=Github" height="23px" />
 </h3>
 
 

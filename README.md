@@ -3,7 +3,7 @@
 <p></p>
 
 <div align="center">
-<a href="https://linkedin.com/in/dany-kattouf" target="_self"> 
+<a href="https://linkedin.com/in/danykattouf" target="_self"> 
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
 <a href="mailto:dajkatal@gmail.com" target="_self"> 
